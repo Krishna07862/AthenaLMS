@@ -33,6 +33,7 @@ A Python-based Library Management System designed to manage books, librarians, b
 
 ### Project Members
 - Krishna Nilkanth Hadimani
+- Vaibhav Kumar Reddy
 
 ### Institution
 Ramaiah University of Applied Sciences
