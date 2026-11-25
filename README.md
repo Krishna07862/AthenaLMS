@@ -21,18 +21,17 @@ A Python-based Library Management System designed to manage books, librarians, b
 - Datetime Module
 
 ### How to Run
-
-1. Install Python 3.
-2. Download or clone this repository.
-3. Open the project folder in VS Code.
-4. Run:
-
-bash
-python lib.py
+1.install Termux in phone,  Ubuntu or Vscode in your system
+2. pkg update && upgrade or sudo apt update && upgrade
+3. pkg install git or sudo apt install git
+4. pkg install python3 or sudo apt install python3 -y
+5. git clone (URL)
+6. cd cloned name 
+7. allow permission 
+8. type : python3 lib.py
 
 
 ### Project Members
-- K Vaibhav Kumar Reddy
 - Krishna Nilkanth Hadimani
 
 ### Institution
